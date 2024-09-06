@@ -10,18 +10,15 @@ household income and public revenue. Therefore, it's fundamental to have indicat
 public revenue and illicit trade. 
 
 ## Tobacco 
-Indicators: 
 - Tobacco consumption (in cigarette units) according to the ECV ("Encuesta nacional de calidad de vida") and ENCSP ("Encuesta nacional de consumo de sustancias psicoáctivas") 
 - Public revenue of Tobacco Taxes- Ministry of finance compilator (CHIP) and ADRES (Administradora de los Recursos del Sistema General de Seguridad Social en Salud) data
 - Apparent consumption (National production + Imports - Exports) according to DANE and DIAN data
 
 ## Alcohol 
-Indicators: 
 - Alcohol household expenditure according to the ECV (Encuesta nacional de calidad de vida)  
 - Public revenue from alcohol taxes- Ministry of finance compilator (CHIP) and ADRES (Administradora de los Recursos del Sistema General de Seguridad Social en Salud)
 - Apparent alcohol consumption (National production + Imports - Exports) based on DANE and DIAN data
 
 ## Sugar-sweetened beverages 
-Taxes in Sugar-sweetened beverages are relatively recent, implemented only after tax reform in 2022. Therefore, for the time being, we cannot construct all indicators for this product
-Indicators: 
+Taxes in Sugar-sweetened beverages are relatively recent, implemented only after tax reform in 2022. Therefore, for the time being, we cannot construct all indicators for this product 
 - Household expenditure and consumption prevalence according to the ECV ("Encuesta nacional de calidad de vida"), including ultra-processed products.

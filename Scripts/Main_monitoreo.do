@@ -24,9 +24,9 @@ do "TABACO\ConsumoAparente_tabaco"
 * B.1) Procesamiento prevalencia y gasto en la ECV (bebidas alcohólicas)
 do "ALCOHOL\alcohol_ECV.do"
 * B.2) Procesamiento recaudo CHIP cerveza  
-
+do "ALCOHOL\recaudo_cerveza"
 * B.2.1) Procesamiento recaudo CHIP Licores y vinos 
- 
+do "ALCOHOL\recaudo_vinosLicores"
 * B.3) Procesamiento recaudo ADRES 
 	
 * B.4) Procesamiento consumo aparente 
